@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270034872174",
+    "project_id": "usertrackingapp-8013b",
+    "storage_bucket": "usertrackingapp-8013b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270034872174:android:cf02dfb4b6001e2adf437f",
+        "android_client_info": {
+          "package_name": "com.example.usertrackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270034872174-shid5r441jve9visd57c0ardjjtboug9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HE6v8EEmy-RDViuYIhZ5_EfD3x50U5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270034872174-shid5r441jve9visd57c0ardjjtboug9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270034872174-l5gk6n8otd2mseni9r7bh38mvnb3iotc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.usertrackapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
